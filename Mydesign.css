@@ -1,0 +1,40 @@
+
+div{
+    border: 2px solid#006B38ff;
+    width:fit-content;
+    margin: 22px;
+    padding: 2px;
+    
+    
+    
+}
+
+
+button{
+    width: 92%;
+    margin: 4px;
+    font-size: xx-large;
+}
+table {
+    background-color: #101820ff;
+   width: 30%;
+   height: 50%;
+
+   
+}
+body{
+    background-color: #006B38ff;
+   transform: translate(480px,150px);
+   height: 50%;
+}
+
+.box{
+    width:95%;
+    height: 30px;
+    font-size: large;
+    
+}
+h1{
+   color:whitesmoke
+}
+
